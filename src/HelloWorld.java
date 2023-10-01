@@ -17,5 +17,9 @@ public class HelloWorld {
 	public void minus(){
 		System.out.println("This is test --minus()");
 	}
+	//added in phase2 branch 
+	public void multiply(){
+		System.out.println("This is test --multiply()");
+	}
 
 }
