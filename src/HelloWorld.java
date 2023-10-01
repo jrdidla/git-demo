@@ -9,7 +9,7 @@ public class HelloWorld {
 		
 
 	}
-	
+	// add method
 	public void add() {
 		System.out.println("This is test");
 	}
