@@ -13,5 +13,9 @@ public class HelloWorld {
 	public void add() {
 		System.out.println("This is test");
 	}
+	//this method added by other developer
+	public void minus(){
+		System.out.println("This is test --minus()");
+	}
 
 }
